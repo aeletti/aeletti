@@ -1,4 +1,4 @@
-- 👋 Salut, je suis @aeletti
+- 👋 Salut, je suis @aeletti.
 - 👀 Je suis intéressé par la musculation.
 - 🌱 Je suis entrain d'apprendre le java et C.
 - 📫 Contactez moi via mon mail : arthur.eletti@etu.unilim.fr
